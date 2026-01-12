@@ -1,3 +1,1 @@
-# References
-
-* octocat 1 😈
+Some text that conflicts with what was added in references.md
